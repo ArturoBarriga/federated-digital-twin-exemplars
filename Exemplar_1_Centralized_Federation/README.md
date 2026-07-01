@@ -1,6 +1,7 @@
 # Exemplar 1: Centralized Federation for Water Allocation
 
-For a video illustration of the implementation and execution of Exemplar 1, refer to minute 00:06 of the following video: https://youtu.be/ZBd1h645gfw
+For a video illustration of the implementation and execution of Exemplar 1, refer to minute 00:06 of the following video: https://youtu.be/Hy_iY0UnPJA
+
 
 ## Overview
 
