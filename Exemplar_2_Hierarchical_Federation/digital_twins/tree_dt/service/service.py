@@ -26,6 +26,8 @@ LEAF_SM_ENC = base64.urlsafe_b64encode(LEAF_SM_ID.encode()).decode().rstrip("=")
 
 app = Flask(__name__)
 
+_state = {"stress_classification": "", "water_stress_index": "", "last_assessment_time": ""}
+
 def _ts():
     return datetime.now(timezone.utc).isoformat()
 
