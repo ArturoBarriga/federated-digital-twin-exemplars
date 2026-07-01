@@ -25,7 +25,7 @@ Each folder contains its own `README.md` file with specific instructions on how 
 
 A video illustrating the implementation and execution of the exemplars is available at the following link:
 
-[Watch the video demonstration](https://youtu.be/ZBd1h645gfw)
+[https://youtu.be/ZBd1h645gfw](https://youtu.be/ZBd1h645gfw)
 
 The video is organized as follows:
 
