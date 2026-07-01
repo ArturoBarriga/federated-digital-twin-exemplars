@@ -1,6 +1,6 @@
 # Exemplar 2: Hierarchical Federation for Precision Irrigation
 
-For a video illustration of the implementation and execution of Exemplar 2, refer to minute 03:24 of the following video: https://youtu.be/ZBd1h645gfw
+For a video illustration of the implementation and execution of Exemplar 2, refer to minute 03:24 of the following video: [https://youtu.be/ZBd1h645gfw](https://youtu.be/Hy_iY0UnPJA)
 
 ## Overview
 
