@@ -1,6 +1,6 @@
 # Exemplar 3: Peer-to-peer Federation for Anomaly Detection
 
-For a video illustration of the implementation and execution of Exemplar 3, refer to minute 06:22 of the following video: https://youtu.be/ZBd1h645gfw
+For a video illustration of the implementation and execution of Exemplar 3, refer to minute 06:22 of the following video: https://youtu.be/Hy_iY0UnPJA
 
 ## Overview
 A set of ten Digital Twins (DTs) is deployed across trees belonging to the same orchard, measuring leaf-turgor pressure (a water stress indicator). Each tree DT periodically sends heartbeat messages to all other DTs to announce its presence. For anomaly detection, each DT reads sensor data directly from every peer's AAS server, computes the population mean and standard deviation, and compares its own reading against the group. 
