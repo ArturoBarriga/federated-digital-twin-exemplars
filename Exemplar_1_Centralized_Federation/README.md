@@ -21,7 +21,8 @@ The architecture is organized into four layers: the Farm Physical Layer (simulat
 - The Integration / Adapter Layer comprises three adapters that are executed on demand by the central manager via HTTP. When requested, they read the corresponding farm twin, normalize the data into a shared canonical format, and send it to the central manager.
 - The Central Manager Layer is a FastAPI application that periodically, every 72 hours, requests normalized telemetry, runs a water-allocation algorithm, and enforces the resulting water quotas through actuator commands.
 
-<img width="311" height="300" alt="image" src="https://github.com/user-attachments/assets/85757c03-64e0-4445-82fa-19f266293c62" />
+
+<img width="310" height="300" alt="centralized (1)" src="https://github.com/user-attachments/assets/262fc16c-c6cf-48ce-9a14-a6e6ccfab4a1" />
 
 
 ## Repository Structure
